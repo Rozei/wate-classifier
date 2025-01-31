@@ -15,8 +15,8 @@ app = Flask(__name__)
 model = load_model('waste_classifier_model.h5')
 
 # Set up the Google Custom Search API
-API_KEY = 'AIzaSyCDP72Pn3_sVqXYdkOLN3HTsHwL6CC6_hA'  # Replace with your Google API Key
-CSE_ID = 'a2b2274cf62aa49d6'  # Replace with your Custom Search Engine ID
+API_KEY = ''  # Replace with your Google API Key
+CSE_ID = ''  # Replace with your Custom Search Engine ID
 
 # Ensure the 'static/images' directory exists
 if not os.path.exists('static/images'):
