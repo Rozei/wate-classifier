@@ -1,0 +1,18 @@
+INFO:root:Model Summary:
+None
+INFO:root:Test Accuracy: 85.26%
+INFO:root:Classification Report:
+              precision    recall  f1-score   support
+
+           O       0.84      0.91      0.87      1398
+           R       0.87      0.78      0.82      1112
+
+    accuracy                           0.85      2510S
+   macro avg       0.86      0.85      0.85      2510
+weighted avg       0.85      0.85      0.85      2510
+
+INFO:root:Confusion Matrix:
+[[1273  125]
+ [ 245  867]]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+INFO:root:Model saved as 'waste_classifier_model.h5'
