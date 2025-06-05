@@ -68,15 +68,10 @@ After training, the model achieves an accuracy of approximately **X%** on the te
 - Increase dataset size for better generalization
 - Experiment with transfer learning using pre-trained models
 - Optimize hyperparameters to improve accuracy
-- Deploy the model as a web or mobile application
+- Deploy the model as a web or mobile applications
 
-## Contributing
-Feel free to fork this repository, create a branch, and submit a pull request with improvements or bug fixes.
-
-## License
-This project is licensed under the MIT License.
 
 ## Contact
-For any queries, contact: **your.email@example.com**
+For any queries, contact: imroztotal@gmail.com
 
 
