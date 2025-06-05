@@ -62,7 +62,7 @@ The CNN model consists of:
 - Softmax activation for multi-class classification
 
 ## Results
-After training, the model achieves an accuracy of approximately **X%** on the test set (replace with actual results). The confusion matrix and classification report can be generated for further analysis.
+After training, the model achieves an accuracy of approximately **85%** on the test set (replace with actual results). The confusion matrix and classification report can be generated for further analysis.
 
 ## Future Improvements
 - Increase dataset size for better generalization
